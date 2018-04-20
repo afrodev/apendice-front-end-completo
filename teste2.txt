@@ -1,0 +1,12 @@
+{
+	bool a;
+	int b;
+
+	if ( a == true ) {
+		b = 1;
+	}
+
+	else {
+		b = 0;
+	}
+}

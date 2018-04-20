@@ -1,0 +1,18 @@
+{
+	int i; float j; bool k;
+
+	while ( k != false ) {
+		while ( i > 0 ) {
+			if ( j > 3.14 ) {
+				i = i * j;
+			}
+
+			else {
+				j = j * 3.14;
+				k = false;
+			}
+
+			i = i - 1;
+		}
+	}
+}

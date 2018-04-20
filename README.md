@@ -12,3 +12,5 @@ Para testar é necessário:
 	-  `java main.Main`
 - Entre na pasta no arquivo teste.txt e coloque qualquer um dos testes no console do terminal.
 - Depois coloque um `\n` para terminar a execução
+
+Autores: Humberto Vieira, Guilherme Paiva, Paulo Magalhães

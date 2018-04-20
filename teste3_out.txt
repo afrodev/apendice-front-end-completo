@@ -1,0 +1,8 @@
+L1:	iffalse i > 0 goto L2
+L3:	iffalse j < 0 goto L4
+L5:	m = i * j
+L6:	j = j - 1
+	goto L3
+L4:	i = i - 1
+	goto L1
+L2:

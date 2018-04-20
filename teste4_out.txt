@@ -1,0 +1,11 @@
+L1:	iffalse k != false goto L2
+L3:	iffalse i > 0 goto L1
+L4:	iffalse j > 3.1399999 goto L7
+L6:	i = i * j
+	goto L5
+L7:	j = j * 3.1399999
+L8:	k = false
+L5:	i = i - 1
+	goto L3
+	goto L1
+L2:

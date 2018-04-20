@@ -1,0 +1,5 @@
+L1:	iffalse a == true goto L4
+L3:	b = 1
+	goto L2
+L4:	b = 0
+L2:
