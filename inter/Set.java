@@ -6,7 +6,7 @@ public class Set extends Stmt {
    public Id id; public Expr expr;
 
    public Set(Id i, Expr x) {
-      id = i; 
+      id = i;
       expr = x;
       if ( check(id.type, expr.type) == null ) error("type error");
    }
